@@ -1,7 +1,6 @@
 body{
     font-family: 'Assistant', sans-serif;
-    font-size: 26px;
-    
+    font-size: 20px;
     
         color: maroon;
     line-height: 1.5;
@@ -10,24 +9,24 @@ body{
 h2 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
-    font-size: 42px;
+    font-size: 30px;
     
 }
 
 h1 {
    font-family: 'Amatic SC', cursive;
     font-weight: 700;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 h4 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 36px;
 }
 
 h3 {
     font-family: 'Amatic SC', cursive;
     font-weight: 400;
-    font-size: 48px;
+    font-size: 36px;
 }
