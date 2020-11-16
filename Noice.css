@@ -30,3 +30,11 @@ h4 {
     font-size: 36px;
     color: darkgoldenrod;
 }
+.container {
+    max-width: 800px;
+}
+img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
