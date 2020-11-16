@@ -4,31 +4,29 @@ body{
     font-weight: 300;
 
         color: maroon;
-    line-height: 1.5;
-    
+    line-height: 1.5;   
 }
-h2 {
-    font-family: 'Assistant', sans-serif;
-    font-weight: 700;
-    font-size: 30px;
-    
-}
-
 h1 {
    font-family: 'Amatic SC', cursive;
     font-weight: 700;
     font-size: 40px;
     color: darkgoldenrod;
 }
-
+h2 {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+h3 {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
 h4 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 36px;
-}
-
-h3 {
-    font-family: 'Amatic SC', cursive;
-    font-weight: 400;
-    font-size: 36px;
+    color: darkgoldenrod;
 }
