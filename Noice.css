@@ -3,7 +3,7 @@ body{
     font-size: 16px;
     font-weight: 300;
 
-        color: maroon;
+        color: black;
     line-height: 1.5;   
 }
 h1 {
@@ -38,4 +38,17 @@ img {
   max-width: 100%;
   width: auto;
   height: auto;
+}
+.cta {
+    padding: 14px; 
+    background-color: bisque;
+    text-align: center;
+    margin-top: 50px;
+}
+.button {
+     background: #08c;
+    text-decoration: none;
+    color: #fff;
+    padding: 4px;
+    display: inline-block;     
 }
