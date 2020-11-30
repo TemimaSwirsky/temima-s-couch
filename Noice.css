@@ -1,54 +1,60 @@
-body{
+body {
     font-family: 'Alef', sans-serif;
     font-size: 16px;
     font-weight: 300;
 
-        color: black;
-    line-height: 1.5;   
+    color: black;
+    line-height: 1.5;
 }
+
 h1 {
-   font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', cursive;
     font-weight: 700;
     font-size: 50px;
     color: darkgoldenrod;
 }
+
 h2 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 30px;
     color: darkgoldenrod;
 }
-h3 {
-    font-family: 'Assistant', sans-serif;
-    font-weight: 700;
-    font-size: 30px;
-    color: darkgoldenrod;
-}
+
 h4 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 36px;
     color: darkgoldenrod;
 }
+
 .container {
     max-width: 800px;
     margin: auto;
 }
+
 img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
+    max-width: 100%;
+    width: auto;
+    height: auto;
 }
+
 .cta {
-    padding: 14px; 
+    padding: 14px;
     background-color: bisque;
-    text-align: center;
+    text-align: right;
     margin-top: 50px;
+    overflow: hidden;
 }
+
 .button {
-     background: #08c;
+    background: #08c;
     text-decoration: none;
     color: #fff;
-    padding: 4px;
-    display: inline-block;     
+    padding: 4px;            
+    display: inline-block;
+}
+
+.alignleft {
+    float: left;
 }
