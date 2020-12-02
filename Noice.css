@@ -11,21 +11,21 @@ h1 {
     font-family: 'Amatic SC', cursive;
     font-weight: 700;
     font-size: 50px;
-    color: darkgoldenrod;
+    color: #f0910b;
 }
 
 h2 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 30px;
-    color: darkgoldenrod;
+    color: #f0910b;
 }
 
 h4 {
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    color: darkgoldenrod;
+    color: #f0910b;
 }
 
 .container {
@@ -40,21 +40,29 @@ img {
 }
 
 .cta {
+
     padding: 14px;
-    background-color: bisque;
+    background-color: #fab80d;
     text-align: right;
     margin-top: 50px;
     overflow: hidden;
 }
 
 .button {
-    background: #08c;
+    background: #909090;
     text-decoration: none;
     color: #fff;
-    padding: 4px;            
+    padding: 4px;
     display: inline-block;
 }
 
 .alignleft {
     float: left;
+}
+
+h3 {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
 }
