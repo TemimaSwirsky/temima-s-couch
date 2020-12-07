@@ -49,7 +49,7 @@ img {
 }
 
 .button {
-    background: #909090;
+    background: #0d0000;
     text-decoration: none;
     color: #fff;
     padding: 4px;
@@ -65,4 +65,17 @@ h3 {
     font-weight: 700;
     font-size: 30px;
     color: black;
+}
+
+.news {
+  padding: 60px;
+  background: url(img/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-size: 24px;
+    
+}
+.news h2{
+    color: #000
 }
