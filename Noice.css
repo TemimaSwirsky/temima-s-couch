@@ -68,14 +68,39 @@ h3 {
 }
 
 .news {
-  padding: 60px;
-  background: url(img/bg.jpg);
-  background-size: cover;
-  background-position: center;
-  text-align: center;
-  font-size: 24px;
-    
+    padding: 60px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+
 }
-.news h2{
-    color: #000
+
+.news h2 {
+    color: #000;
+
+}
+
+input {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.news .button {
+    background: none;
+    color: #000;
+}
+
+label span {
+    display: inline-block;
+    width: 100px;
+}
+label {
+  margin-bottom:20px;
+  display: block;
 }
