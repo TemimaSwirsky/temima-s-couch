@@ -44,5 +44,6 @@ h3 {
 .button:hover {
     background: #fff;
     color: #000;
+    transition: 3s;
 
 }
