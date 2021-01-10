@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Suez One', serif;
+}
+
+.about {
+    background: #d1f2fb;
+    font-size: 21px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+img {
+    max-width: 90%;
+    width: auto;
+    height: auto;
+}
+.about .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
