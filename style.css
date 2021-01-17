@@ -6,19 +6,19 @@ h1,
 h2,
 h3 {
     font-family: 'Suez One', serif;
-    color: #fff;
+    color: #000;
     font-size: 400;
 }
 
 .about {
-    background: #3cbbfb;
+    background: #CDF2FF;
     font-size: 21px;
 }
 
 .container {
     max-width: 800px;
     margin: auto;
-    color: #fff;
+    color: #000;
 }
 
 .about img {
@@ -30,23 +30,48 @@ h3 {
 
 .about .container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
     align-items: center;
 }
 
 .button {
     text-decoration: none;
-    border: 3px solid #fff;
+    border: 3px solid #000;
     padding: 14px 20px;
     display: inline-block;
     border-radius: 10px;
     margin-top: 10px;
-    color: #fff;
+    color: #000;
 }
 
 .button:hover {
-    background: #fff;
-    color: #000;
-    transition: 3s;
+    background: #000;
+    color: #fff;
+    transition: 2s;
 
+}
+
+.gallery {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: #000;
+
+}
+
+.gallery img {
+    display: block;
+    max-width: 100%;
+
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    font-style: normal; 
 }
