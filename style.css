@@ -75,3 +75,8 @@ h2 {
     text-align: center;
     font-style: normal; 
 }
+.logo {
+  max-width: 70px;
+  display: block;
+  margin: 10px auto;
+}
