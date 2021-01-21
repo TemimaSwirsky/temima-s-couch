@@ -80,3 +80,36 @@ h2 {
   display: block;
   margin: 10px auto;
 }
+.contact {
+  background: #CDF2FF;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 60px;
+  padding: 40px 0;
+    color: #000;
+}
+.contact a:hover {
+  opacity: 0.7;
+    text-decoration-line: underline;
+}
+.contact ul {
+  list-style: none;
+  padding: 0;
+    color: #000;
+}
+.contact li {
+  margin-bottom: 7px;
+    color: #000;
+}
+.footer {
+  background: #000;
+  text-align: center;
+  padding: 40px 0;
+}
+.footer a {
+  margin: 0 10px;
+}
+a {
+  color: #000;
+    text-decoration: none;
+}
